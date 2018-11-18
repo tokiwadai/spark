@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/miscSparkSamples.iml" filepath="$PROJECT_DIR$/.idea/modules/miscSparkSamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/miscSparkSamples-build.iml" filepath="$PROJECT_DIR$/.idea/modules/miscSparkSamples-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark.iml" filepath="$PROJECT_DIR$/.idea/modules/spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark-build.iml" filepath="$PROJECT_DIR$/.idea/modules/spark-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sparkCommon.iml" filepath="$PROJECT_DIR$/.idea/modules/sparkCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sparkCommon-build.iml" filepath="$PROJECT_DIR$/.idea/modules/sparkCommon-build.iml" />
+    </modules>
+  </component>
+</project>
