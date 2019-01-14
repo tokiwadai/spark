@@ -2,31 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34f89e54-31ac-43ae-907f-758f147e098d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/miscSparkSamples/src/main/scala/read/write/hdfs/OuterJoin.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miscSparkSamples/src/main/resources/logback.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/miscSparkSamples/src/main/scala/read/write/hdfs/Info.scala" beforeDir="false" afterPath="$PROJECT_DIR$/miscSparkSamples/src/main/scala/read/write/hdfs/Info.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miscSparkSamples/src/main/scala/read/write/hdfs/ReadFromHDFS_DF_Utils.scala" beforeDir="false" afterPath="$PROJECT_DIR$/miscSparkSamples/src/main/scala/read/write/hdfs/ReadFromHDFS_DF_Utils.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miscSparkSamples/src/main/scala/read/write/hdfs/ReadFromHDFS_DS.scala" beforeDir="false" afterPath="$PROJECT_DIR$/miscSparkSamples/src/main/scala/read/write/hdfs/ReadFromHDFS_DS.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miscSparkSamples/target/scala-2.12/classes/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/miscSparkSamples/target/scala-2.12/classes/logback.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miscSparkSamples/target/scala-2.12/classes/output/countriesPerProduct.csv/._SUCCESS.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miscSparkSamples/target/scala-2.12/classes/output/countriesPerProduct.csv/.part-00000-5f4a037b-544f-4104-be5c-32dfb9531c06-c000.csv.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miscSparkSamples/target/scala-2.12/classes/output/countriesPerProduct.csv/.part-00001-5f4a037b-544f-4104-be5c-32dfb9531c06-c000.csv.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miscSparkSamples/target/scala-2.12/classes/output/countriesPerProduct.csv/_SUCCESS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miscSparkSamples/target/scala-2.12/classes/output/countriesPerProduct.csv/part-00000-5f4a037b-544f-4104-be5c-32dfb9531c06-c000.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miscSparkSamples/target/scala-2.12/classes/output/countriesPerProduct.csv/part-00001-5f4a037b-544f-4104-be5c-32dfb9531c06-c000.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miscSparkSamples/target/scala-2.12/classes/output/purchasesPerUser.csv/._SUCCESS.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miscSparkSamples/target/scala-2.12/classes/output/purchasesPerUser.csv/.part-00000-443e19b6-aad2-402e-b171-2809a9bf9e41-c000.csv.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miscSparkSamples/target/scala-2.12/classes/output/purchasesPerUser.csv/.part-00001-443e19b6-aad2-402e-b171-2809a9bf9e41-c000.csv.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miscSparkSamples/target/scala-2.12/classes/output/purchasesPerUser.csv/.part-00002-443e19b6-aad2-402e-b171-2809a9bf9e41-c000.csv.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miscSparkSamples/target/scala-2.12/classes/output/purchasesPerUser.csv/_SUCCESS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miscSparkSamples/target/scala-2.12/classes/output/purchasesPerUser.csv/part-00000-443e19b6-aad2-402e-b171-2809a9bf9e41-c000.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miscSparkSamples/target/scala-2.12/classes/output/purchasesPerUser.csv/part-00001-443e19b6-aad2-402e-b171-2809a9bf9e41-c000.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miscSparkSamples/target/scala-2.12/classes/output/purchasesPerUser.csv/part-00002-443e19b6-aad2-402e-b171-2809a9bf9e41-c000.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miscSparkSamples/target/scala-2.12/classes/read/write/hdfs/ProcessJob_SparkSQL.class" beforeDir="false" afterPath="$PROJECT_DIR$/miscSparkSamples/target/scala-2.12/classes/read/write/hdfs/ProcessJob_SparkSQL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miscSparkSamples/target/scala-2.12/classes/read/write/hdfs/ReadFromHDFS_DS$.class" beforeDir="false" afterPath="$PROJECT_DIR$/miscSparkSamples/target/scala-2.12/classes/read/write/hdfs/ReadFromHDFS_DS$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miscSparkSamples/target/scala-2.12/classes/read/write/hdfs/ReadFromHDFS_DS.class" beforeDir="false" afterPath="$PROJECT_DIR$/miscSparkSamples/target/scala-2.12/classes/read/write/hdfs/ReadFromHDFS_DS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miscSparkSamples/target/scala-2.12/classes/read/write/hdfs/Utils$.class" beforeDir="false" afterPath="$PROJECT_DIR$/miscSparkSamples/target/scala-2.12/classes/read/write/hdfs/Utils$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscSparkSamples/src/main/scala/read/write/hdfs/OuterJoin.scala" beforeDir="false" afterPath="$PROJECT_DIR$/miscSparkSamples/src/main/scala/read/write/hdfs/OuterJoin_DF.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -94,7 +72,7 @@
           <entry key="part-00000" value="2" />
           <entry key="properties" value="2" />
           <entry key="sbt" value="8" />
-          <entry key="scala" value="122" />
+          <entry key="scala" value="124" />
           <entry key="txt" value="3" />
           <entry key="xml" value="4" />
         </counts>
@@ -105,7 +83,7 @@
           <entry key="JAVA" value="4" />
           <entry key="PLAIN_TEXT" value="22" />
           <entry key="Properties" value="2" />
-          <entry key="Scala" value="122" />
+          <entry key="Scala" value="124" />
           <entry key="XML" value="4" />
           <entry key="sbt" value="8" />
         </counts>
@@ -115,7 +93,7 @@
           <entry key="csv" value="113" />
           <entry key="properties" value="148" />
           <entry key="sbt" value="777" />
-          <entry key="scala" value="7473" />
+          <entry key="scala" value="7706" />
           <entry key="txt" value="2" />
           <entry key="xml" value="4" />
         </counts>
@@ -124,7 +102,7 @@
         <counts>
           <entry key="PLAIN_TEXT" value="115" />
           <entry key="Properties" value="148" />
-          <entry key="Scala" value="7473" />
+          <entry key="Scala" value="7706" />
           <entry key="XML" value="4" />
           <entry key="sbt" value="777" />
         </counts>
@@ -138,11 +116,20 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/miscSparkSamples/src/main/scala/read/write/hdfs/Info.scala">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="169">
-                  <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+                <state relative-caret-position="315">
+                  <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
                   <folding>
                     <element signature="e#25#72#0" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/miscSparkSamples/src/main/scala/read/write/hdfs/LeftInnerJoin_DF.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="357">
+                  <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
                 </state>
               </provider>
             </entry>
@@ -152,10 +139,10 @@
       <split-second>
         <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/miscSparkSamples/src/main/scala/read/write/hdfs/OuterJoin.scala">
+            <entry file="file://$PROJECT_DIR$/miscSparkSamples/src/main/scala/read/write/hdfs/OuterJoin_DF.scala">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="493">
-                  <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+                <state relative-caret-position="468">
+                  <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
                   <folding>
                     <element signature="e#25#64#0" expanded="true" />
                   </folding>
@@ -208,16 +195,18 @@
         <option value="$PROJECT_DIR$/miscSparkSamples/src/main/scala/misc/AggregatorExample.scala" />
         <option value="$PROJECT_DIR$/miscSparkSamples/src/main/resources/logback.xml" />
         <option value="$PROJECT_DIR$/miscSparkSamples/src/main/scala/read/write/hdfs/ReadFromHDFS_DS.scala" />
-        <option value="$PROJECT_DIR$/miscSparkSamples/src/main/scala/read/write/hdfs/Info.scala" />
         <option value="$PROJECT_DIR$/miscSparkSamples/src/main/scala/read/write/hdfs/OuterJoin.scala" />
+        <option value="$PROJECT_DIR$/miscSparkSamples/src/main/scala/read/write/hdfs/Info.scala" />
+        <option value="$PROJECT_DIR$/miscSparkSamples/src/main/scala/read/write/hdfs/LeftInnerJoin_DF.scala" />
+        <option value="$PROJECT_DIR$/miscSparkSamples/src/main/scala/read/write/hdfs/OuterJoin_DF.scala" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1024" />
-    <option name="y" value="77" />
+    <option name="x" value="1115" />
+    <option name="y" value="36" />
     <option name="width" value="2302" />
-    <option name="height" value="1318" />
+    <option name="height" value="1350" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -561,7 +550,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1024" y="77" width="2302" height="1318" extended-state="0" />
+    <frame x="1115" y="36" width="2302" height="1350" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1460177" />
@@ -570,7 +559,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.28341013" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24189526" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4040486" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39888164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -655,7 +644,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/miscSparkSamples/src/main/resources/transactions_test.txt" />
     <entry file="file://$PROJECT_DIR$/miscSparkSamples/src/main/scala/read/write/hdfs/ReadFromHDFS_RDD1.scala" />
     <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.12/srcs/spark-core_2.12-2.4.0-sources.jar!/org/apache/spark/ui/WebUI.scala">
       <provider selected="true" editor-type-id="text-editor">
@@ -938,22 +926,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/miscSparkSamples/src/main/scala/read/write/hdfs/OuterJoin.scala">
+    <entry file="file://$PROJECT_DIR$/miscSparkSamples/src/main/scala/read/write/hdfs/LeftInnerJoin_DF.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-          <folding>
-            <element signature="e#25#64#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="357">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/miscSparkSamples/src/main/scala/read/write/hdfs/Info.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        <state relative-caret-position="315">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="e#25#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/miscSparkSamples/src/main/scala/read/write/hdfs/OuterJoin_DF.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#25#64#0" expanded="true" />
           </folding>
         </state>
       </provider>

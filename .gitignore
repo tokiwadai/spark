@@ -16,3 +16,4 @@ factorial*.txt
 .idea/
 .idea/*
 .idea/**
+wikipedia/**

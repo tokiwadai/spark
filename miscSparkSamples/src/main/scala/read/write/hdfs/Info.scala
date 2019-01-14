@@ -49,7 +49,6 @@ trait Info {
   def outerJoinDF(dfLeft: DataFrame, dfRight: DataFrame, list: Array[Column]): DataFrame =
     outerJoinDF((dfLeft, uid), (dfRight, uid), list)
 
-
   def outerJoinDF(left: (DataFrame, String), right: (DataFrame, String), list: Array[Column]): DataFrame = {
     val (dfLeft, uidLeft) = left
     val uidL = s"${uidLeft}_Left"

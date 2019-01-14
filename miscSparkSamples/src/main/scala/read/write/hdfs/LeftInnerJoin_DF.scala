@@ -5,7 +5,7 @@ import org.apache.spark.internal.Logging
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.functions._
 
-object OuterJoin_DF extends Info with Logging {
+object LeftInnerJoin_DF extends Info with Logging {
   Logger.getLogger("org.apache.spark").setLevel(Level.WARN)
 
   val cntryTax = s"${country}OfTaxation"
@@ -82,5 +82,6 @@ object OuterJoin_DF extends Info with Logging {
       .sort(col(uid).asc)
     println("dfAllCntry...")
     dfAllCntry.show
+    println(countryOfIncorporation)
   }
 }
